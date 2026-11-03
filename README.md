@@ -39,6 +39,7 @@
 
 <!-- PROJECTS:START -->
 
+- **[Zenprits-CareCircle](https://github.com/zensharma0512-a11y/Zenprits-CareCircle)**
 - **[Automate](https://github.com/zensharma0512-a11y/Automate)** · `Python`
 
 <!-- PROJECTS:END -->
