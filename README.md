@@ -24,6 +24,7 @@
 
 <!-- ACTIVITY:START -->
 
+- ⬆️ Pushed to [cytoscape.js](https://github.com/zensharma0512-a11y/cytoscape.js) — _Nov 13_
 - ⬆️ Pushed to [Automate](https://github.com/zensharma0512-a11y/Automate) — _Nov 13_
 - 🔀 Opened PR [#575](https://github.com/fortran-lang/fortls/pull/575) in [fortran-lang/fortls](https://github.com/fortran-lang/fortls) — _Nov 13_
 - 🍴 Forked [fortran-lang/fortls](https://github.com/fortran-lang/fortls) — _Nov 13_
