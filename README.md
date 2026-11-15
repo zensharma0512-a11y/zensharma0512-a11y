@@ -31,7 +31,6 @@
 - 🔀 Opened PR [#6043](https://github.com/pybamm-team/PyBaMM/pull/6043) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM) — _Nov 13_
 - 🍴 Forked [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM) — _Nov 13_
 - 🔀 Opened PR [#3588](https://github.com/cytoscape/cytoscape.js/pull/3588) in [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) — _Nov 12_
-- ✅ Merged PR [#3532](https://github.com/cytoscape/cytoscape.js/pull/3532) in [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) — _Oct 15_
 
 <!-- ACTIVITY:END -->
 
