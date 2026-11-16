@@ -24,7 +24,7 @@
 
 <!-- ACTIVITY:START -->
 
-- ⬆️ Pushed to [PyBaMM](https://github.com/zensharma0512-a11y/PyBaMM) — _Nov 13_
+- ⬆️ Pushed to [PyBaMM](https://github.com/zensharma0512-a11y/PyBaMM) — _Nov 16_
 - ⬆️ Pushed to [fortls](https://github.com/zensharma0512-a11y/fortls) — _Nov 13_
 - ⬆️ Pushed to [cytoscape.js](https://github.com/zensharma0512-a11y/cytoscape.js) — _Nov 13_
 - ⬆️ Pushed to [Automate](https://github.com/zensharma0512-a11y/Automate) — _Nov 13_
@@ -39,6 +39,7 @@
 
 <!-- PROJECTS:START -->
 
+- **[llm-rate-limiter](https://github.com/zensharma0512-a11y/llm-rate-limiter)** — Thread-safe sliding-window and token-bucket rate limiter for LLM API gateways, in-memory or Redis-backed (Python, Lua) · `Python`
 - **[Automate](https://github.com/zensharma0512-a11y/Automate)** · `Python`
 
 <!-- PROJECTS:END -->
