@@ -24,7 +24,7 @@
 
 <!-- ACTIVITY:START -->
 
-- ⬆️ Pushed to [llm-rate-limiter](https://github.com/zensharma0512-a11y/llm-rate-limiter) — _Nov 16_
+- ⬆️ Pushed to [ratekeeper](https://github.com/zensharma0512-a11y/ratekeeper) — _Nov 16_
 - ⬆️ Pushed to [PyBaMM](https://github.com/zensharma0512-a11y/PyBaMM) — _Nov 16_
 - ⬆️ Pushed to [fortls](https://github.com/zensharma0512-a11y/fortls) — _Nov 13_
 - ⬆️ Pushed to [cytoscape.js](https://github.com/zensharma0512-a11y/cytoscape.js) — _Nov 13_
@@ -39,7 +39,8 @@
 
 <!-- PROJECTS:START -->
 
-- **[llm-rate-limiter](https://github.com/zensharma0512-a11y/llm-rate-limiter)** — Thread-safe sliding-window and token-bucket rate limiter for LLM API gateways, in-memory or Redis-backed (Python, Lua) · `Python`
+- **[reconcilehub](https://github.com/zensharma0512-a11y/reconcilehub)** — Thread-safe payment-to-invoice reconciliation service: tiered matching, idempotent retries, atomic batches. Python stdlib, 91 tests. · `Python`
+- **[ratekeeper](https://github.com/zensharma0512-a11y/ratekeeper)** — Per-tenant request quotas for AI model APIs: token-bucket and sliding-window throttling, in-process or fleet-wide via Redis + Lua · `Python`
 - **[Automate](https://github.com/zensharma0512-a11y/Automate)** · `Python`
 
 <!-- PROJECTS:END -->
