@@ -24,14 +24,14 @@
 
 <!-- ACTIVITY:START -->
 
+- ⬆️ Pushed to [PyBaMM](https://github.com/zensharma0512-a11y/PyBaMM) — _Nov 17_
+- ⬆️ Pushed to [reconcilehub](https://github.com/zensharma0512-a11y/reconcilehub) — _Nov 17_
 - ⬆️ Pushed to [ratekeeper](https://github.com/zensharma0512-a11y/ratekeeper) — _Nov 17_
 - ⬆️ Pushed to [PyBaMM](https://github.com/zensharma0512-a11y/PyBaMM) — _Nov 17_
 - ⬆️ Pushed to [ratekeeper](https://github.com/zensharma0512-a11y/ratekeeper) — _Nov 16_
 - ⬆️ Pushed to [PyBaMM](https://github.com/zensharma0512-a11y/PyBaMM) — _Nov 16_
 - ⬆️ Pushed to [fortls](https://github.com/zensharma0512-a11y/fortls) — _Nov 13_
 - ⬆️ Pushed to [cytoscape.js](https://github.com/zensharma0512-a11y/cytoscape.js) — _Nov 13_
-- ⬆️ Pushed to [Automate](https://github.com/zensharma0512-a11y/Automate) — _Nov 13_
-- 🔀 Opened PR [#575](https://github.com/fortran-lang/fortls/pull/575) in [fortran-lang/fortls](https://github.com/fortran-lang/fortls) — _Nov 13_
 
 <!-- ACTIVITY:END -->
 
@@ -40,8 +40,11 @@
 <!-- PROJECTS:START -->
 
 - **[reconcilehub](https://github.com/zensharma0512-a11y/reconcilehub)** — Thread-safe payment-to-invoice reconciliation service: tiered matching, idempotent retries, atomic batches. Python stdlib, 91 tests. · `Python`
+- **[chainlog](https://github.com/zensharma0512-a11y/chainlog)** — Tamper-evident, append-only audit log with hash chaining, HMAC keys and checkpoints · `Python`
+- **[issuehub](https://github.com/zensharma0512-a11y/issuehub)** — Concurrency-safe multi-project issue tracker: idempotent creates, optimistic locking, cursor pagination · `Python`
+- **[seatscout](https://github.com/zensharma0512-a11y/seatscout)** — Composable, stateless rules for event recommendation campaigns with tiers, limits and fallback · `Python`
 - **[ratekeeper](https://github.com/zensharma0512-a11y/ratekeeper)** — Per-tenant request quotas for AI model APIs: token-bucket and sliding-window throttling, in-process or fleet-wide via Redis + Lua · `Python`
-- **[Automate](https://github.com/zensharma0512-a11y/Automate)** · `Python`
+- **[leasequeue](https://github.com/zensharma0512-a11y/leasequeue)** — Durable job queue with leases, heartbeats, retries and dead-lettering. Survives worker crashes · `Python`
 
 <!-- PROJECTS:END -->
 
