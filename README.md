@@ -24,6 +24,7 @@
 
 <!-- ACTIVITY:START -->
 
+- ⬆️ Pushed to [chainlog](https://github.com/zensharma0512-a11y/chainlog) — _Nov 18_
 - ⬆️ Pushed to [reconcilehub](https://github.com/zensharma0512-a11y/reconcilehub) — _Nov 18_
 - ⬆️ Pushed to [ratekeeper](https://github.com/zensharma0512-a11y/ratekeeper) — _Nov 18_
 - ⬆️ Pushed to [reconcilehub](https://github.com/zensharma0512-a11y/reconcilehub) — _Nov 18_
@@ -31,7 +32,6 @@
 - ⬆️ Pushed to [PyBaMM](https://github.com/zensharma0512-a11y/PyBaMM) — _Nov 17_
 - ⬆️ Pushed to [reconcilehub](https://github.com/zensharma0512-a11y/reconcilehub) — _Nov 17_
 - ⬆️ Pushed to [ratekeeper](https://github.com/zensharma0512-a11y/ratekeeper) — _Nov 17_
-- ⬆️ Pushed to [PyBaMM](https://github.com/zensharma0512-a11y/PyBaMM) — _Nov 17_
 
 <!-- ACTIVITY:END -->
 
